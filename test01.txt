@@ -5,3 +5,4 @@
 - git commit
 - git rm (on index tree)
 - git status
+- git diff
