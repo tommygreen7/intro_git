@@ -1,2 +1,5 @@
 いんとろGitのファイルです。
 追加しました。
+
+- git add
+- git commit
