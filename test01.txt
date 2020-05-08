@@ -4,3 +4,4 @@
 - git add
 - git commit
 - git rm (on index tree)
+- git status
